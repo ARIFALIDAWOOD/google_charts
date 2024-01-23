@@ -1,0 +1,1155 @@
+{
+    "GEN2": [
+        [
+            "D1",
+            "GEN2",
+            "GEN 2.0 FABRICATED SWING ARM ASSY"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "MCU ASSEMBLY-GEN1.8"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "CAM ASSY G2"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "BATTERY ASSEMBLY , 4KWH"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "BELT"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "BELT COVER"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "BRAKE HOSE REAR MASTER TO CBS"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "BUDDY SPACE"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "BUSBAR FC NEGATIVE"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "FRONT FORK ASSEMBLY"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "FRONT SUSPENSION LH"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "FRONT WHEEL"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "GEN 2.0 FABRICATED STRUCTURAL ARM ASSY"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "GEN 2.0 FABRICATED SWING ARM"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "HYDRAULIC CBS MODULE"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "LOCK PLATE"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "MASTER CYLINDER ASSEMBLY LH- REAR"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "MASTER CYLINDER ASSEMBLY RH- FRONT"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "REAR CALIPER ASSEMBLY"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "REAR SUSPENSION UNIT"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "S1 PRO GEN 2.0 DVE ASSY FRAME - GTEK MCU + WELDED BRACKET + PAINTED"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "SEAT ASSY"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "FRONT SUSPENSION ASSEMBLY"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "BRAKES ASSEMBLY"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "ASSEMBLY 3KW BOOST CHARGER"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "SWING ARM ASSY GEN 2.0"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "BRACKET"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "BRAKES ASSEMBLY"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "ELECTRONIC HAND THROTTLE AVX 150MM"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "BRAKES ASSEMBLY"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "REAR BUNDY TUBE COILED"
+        ],
+        [
+            "D1",
+            "GEN2",
+            "BRAKE HOSE CLIP"
+        ],
+        [
+            "D1.C1",
+            "D1",
+            "BELT"
+        ],
+        [
+            "D1.C1",
+            "D1",
+            "REAR BUNDY TUBE COILED"
+        ],
+        [
+            "D1.C1",
+            "D1",
+            "BRAKE HOSE CLIP - TYPE 1"
+        ],
+        [
+            "D1.C2",
+            "D1",
+            "BRAKE HOSE CLIP - TYPE 1"
+        ],
+        [
+            "D1.S2",
+            "D1",
+            "BATTERY ASSEMBLY , 4KWH"
+        ],
+        [
+            "D1.S3",
+            "D1",
+            "BATTERY ASSEMBLY , 4KWH"
+        ],
+        [
+            "D10",
+            "GEN2",
+            "MOTOR (GEN2.0_WITHOUT MCU)"
+        ],
+        [
+            "D11",
+            "GEN2",
+            "MOTOR (GEN2.0_WITHOUT MCU)"
+        ],
+        [
+            "D2",
+            "GEN2",
+            "BRAKES ASSEMBLY"
+        ],
+        [
+            "D2",
+            "GEN2",
+            "REAR SUSPENSION UNIT"
+        ],
+        [
+            "D2",
+            "GEN2",
+            "GEN 2.0 FABRICATED SWING ARM"
+        ],
+        [
+            "D2",
+            "GEN2",
+            "S1 PRO GEN 2.0 DVE ASSY FRAME - GTEK MCU + WELDED BRACKET + PAINTED"
+        ],
+        [
+            "D2",
+            "GEN2",
+            "REAR BUNDY TUBE COILED"
+        ],
+        [
+            "D2",
+            "GEN2",
+            "MOTOR ASSEMBLY (OLA 100MM)"
+        ],
+        [
+            "D2",
+            "GEN2",
+            "BRAKE HOSE CLIP"
+        ],
+        [
+            "D2",
+            "GEN2",
+            "FRONT WHEEL"
+        ],
+        [
+            "D2",
+            "GEN2",
+            "BRAKE HOSE CLIP"
+        ],
+        [
+            "D2",
+            "GEN2",
+            "FRONT CALIPER ASSEMBLY"
+        ],
+        [
+            "D2",
+            "GEN2",
+            "BATTERY ASSEMBLY , 4KWH"
+        ],
+        [
+            "D2",
+            "GEN2",
+            "DC-DC HARNESS"
+        ],
+        [
+            "D2",
+            "GEN2",
+            "SIDE STAND"
+        ],
+        [
+            "D2",
+            "GEN2",
+            "SWING ARM ASSY GEN 2.0"
+        ],
+        [
+            "D2",
+            "GEN2",
+            "BANJO WASHER"
+        ],
+        [
+            "D2.C1",
+            "D2",
+            "REAR BUNDY TUBE COILED"
+        ],
+        [
+            "D2.S2",
+            "D2",
+            "BATTERY ASSEMBLY , 4KWH"
+        ],
+        [
+            "D2.S3",
+            "D2",
+            "BATTERY ASSEMBLY , 4KWH"
+        ],
+        [
+            "D3",
+            "GEN2",
+            "SWING ARM ASSY GEN 2.0"
+        ],
+        [
+            "D3",
+            "GEN2",
+            "S1 PRO GEN 2.0 DVE ASSY FRAME - GTEK MCU + WELDED BRACKET + PAINTED"
+        ],
+        [
+            "D3",
+            "GEN2",
+            "MOTOR (GEN2.0_WITHOUT MCU)"
+        ],
+        [
+            "D3",
+            "GEN2",
+            "BRAKE HOSE CLIP"
+        ],
+        [
+            "D3",
+            "GEN2",
+            "BATTERY ASSEMBLY , 4KWH"
+        ],
+        [
+            "D3.P1",
+            "D3",
+            "BATTERY ASSEMBLY , 4KWH"
+        ],
+        [
+            "D3.P1.S2",
+            "D3",
+            "BATTERY ASSEMBLY , 4KWH"
+        ],
+        [
+            "D3.P1.S3",
+            "D3",
+            "BATTERY ASSEMBLY , 4KWH"
+        ],
+        [
+            "D4",
+            "GEN2",
+            "MOTOR (GEN2.0_WITHOUT MCU)"
+        ],
+        [
+            "D5",
+            "GEN2",
+            "MOTOR (GEN2.0_WITHOUT MCU)"
+        ],
+        [
+            "D6",
+            "GEN2",
+            "MOTOR (GEN2.0_WITHOUT MCU)"
+        ],
+        [
+            "D7",
+            "GEN2",
+            "MOTOR (GEN2.0_WITHOUT MCU)"
+        ],
+        [
+            "D8",
+            "GEN2",
+            "MOTOR (GEN2.0_WITHOUT MCU)"
+        ],
+        [
+            "D9",
+            "GEN2",
+            "MOTOR (GEN2.0_WITHOUT MCU)"
+        ]
+    ],
+    "S1_AIR": [
+        [
+            "D1",
+            "S1_AIR",
+            "VEHICLE INLET ASSEMBLY"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "HANDLE BAR ASSY, PAINTED"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "FRONT SUSPENSION LH"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "FR INDICATOR RH"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "ELECTRICAL STEERING LOCK COLUMN"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "ELECTRICAL SEAT LOCK"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "COCKPIT TOP SHELL"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "COCKPIT REAR LOWER, BODY"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "COCKPIT BOTTOM SHELL, BODY"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "CHARGING GUN ASSY, 120VDC/125A, DC HYPER CHARGER"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "RELAY ASSEMBLY"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "CENTER STAND FABRICATION ASSY"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "BRAKE CABLE RH LEVER ASSY TO FRONT PANEL ASSY"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "BRAKE CABLE REAR (LH) LEVER ASSEMBLY TO FRONT PANEL ASSEMBLY"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "BATTERY ASSEMBLY, 3KWH"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "SWING ARM ASSEMBLY"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "MCU SYSTEM S1 AIR"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "FRONT SUSPENSION ASSEMBLY"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "COCKPIT HARNESS"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "SWING ARM ASSEMBLY"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "HMI SUPPORT GROMMET"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "FRONT HARNESS"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "HOSE CLIP"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "HUB MOTOR ASSEMBLY"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "HEAD LAMP"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "BMS ASSEMBLY, BATTERY"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "LH LEVER ASSEMBLY"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "CHARGING BUSBAR POSITIVE"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "CHARGING BUSBAR NEGATIVE"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "S1 AIR ASSY FRAME - PAINTED"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "REAR SUSPENSION UNIT"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "CABLE HOLDER"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "HYPERCHARGER GUN"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "SIDE STAND HOLDER, SIDESTAND ASSEMBLY"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "FR INDICATOR LH"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "REAR BRAKE PANEL ASSEMBLY"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "ELECTRONIC HAND THROTTLE AVX 150MM"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "MCU ASSEMBLY"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "LATCH, CHARGING PORT COVER"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "INTEGRATED HMI"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "UNIT TAIL LAMP"
+        ],
+        [
+            "D1",
+            "S1_AIR",
+            "LATCH, CHARGING PORT COVER"
+        ],
+        [
+            "D1.C1",
+            "D1",
+            "HANDLE BAR ASSY, PAINTED"
+        ],
+        [
+            "D1.C1",
+            "D1",
+            "HUB MOTOR ASSEMBLY"
+        ],
+        [
+            "D1.C1",
+            "D1",
+            "BRAKE CABLE LH LEVER ASSY TO REAR PANEL ASSY"
+        ],
+        [
+            "D1.C3",
+            "D1",
+            "CABLE TIE -300MM"
+        ],
+        [
+            "D1.S1",
+            "D1",
+            "500W Inhouse Charger"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "DC-DC HARNESS"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "HUB MOTOR ASSEMBLY"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "LATCH, CHARGING PORT COVER"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "ESCL BOOT"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "COCKPIT BOTTOM SHELL, BODY"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "DC-DC HARNESS"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "RELAY ASSEMBLY"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "CENTER STAND FABRICATION ASSY"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "INTEGRATED HMI"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "BRAKE CABLE RH LEVER ASSY TO FRONT PANEL ASSY"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "ELECTRICAL SEAT LOCK"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "MCU ASSEMBLY"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "BRAKE CABLE REAR (LH) LEVER ASSEMBLY TO FRONT PANEL ASSEMBLY"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "HORN"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "BRAKE CABLE LH LEVER ASSY TO REAR PANEL ASSY"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "ELECTRICAL STEERING LOCK COLUMN"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "BATTERY ASSEMBLY, 3KWH"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "S1 AIR ASSY FRAME"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "S1 AIR ASSY FRAME - PAINTED"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "SIDE STAND"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "LATCH, CHARGING PORT COVER"
+        ],
+        [
+            "D2",
+            "S1_AIR",
+            "VEHICLE INLET ASSEMBLY"
+        ],
+        [
+            "D2.C1",
+            "D2",
+            "HANDLE BAR ASSY, PAINTED"
+        ],
+        [
+            "D2.C1",
+            "D2",
+            "HUB MOTOR ASSEMBLY"
+        ],
+        [
+            "D2.C3",
+            "D2",
+            "BRAKE CABLE LH LEVER ASSY TO REAR PANEL ASSY"
+        ],
+        [
+            "D2.S2",
+            "D2",
+            "BATTERY ASSEMBLY, 3KWH"
+        ],
+        [
+            "D2.S3",
+            "D2",
+            "BATTERY ASSEMBLY, 3KWH"
+        ],
+        [
+            "D3",
+            "S1_AIR",
+            "S1 AIR ASSY FRAME - PAINTED"
+        ],
+        [
+            "D3",
+            "S1_AIR",
+            "INTEGRATED HMI"
+        ],
+        [
+            "D3",
+            "S1_AIR",
+            "ELECTRICAL STEERING LOCK COLUMN"
+        ],
+        [
+            "D3",
+            "S1_AIR",
+            "BATTERY ASSEMBLY, 3KWH"
+        ],
+        [
+            "D3",
+            "S1_AIR",
+            "BRAKE CABLE REAR (LH) LEVER ASSEMBLY TO FRONT PANEL ASSEMBLY"
+        ],
+        [
+            "D3",
+            "S1_AIR",
+            "BRAKE CABLE RH LEVER ASSY TO FRONT PANEL ASSY"
+        ],
+        [
+            "D3",
+            "S1_AIR",
+            "DC-DC HARNESS"
+        ],
+        [
+            "D3",
+            "S1_AIR",
+            "BRAKES SYSTEM"
+        ],
+        [
+            "D3.C1",
+            "D3",
+            "HUB MOTOR ASSEMBLY"
+        ],
+        [
+            "D3.P1",
+            "D3",
+            "BATTERY ASSEMBLY, 3KWH"
+        ],
+        [
+            "D3.P1.S2",
+            "D3",
+            "BATTERY ASSEMBLY, 3KWH"
+        ],
+        [
+            "D3.P1.S3",
+            "D3",
+            "BATTERY ASSEMBLY, 3KWH"
+        ],
+        [
+            "D4",
+            "S1_AIR",
+            "BRAKE CABLE RH LEVER ASSY TO FRONT PANEL ASSY"
+        ],
+        [
+            "D4",
+            "S1_AIR",
+            "INTEGRATED HMI"
+        ],
+        [
+            "D4",
+            "S1_AIR",
+            "S1 AIR ASSY FRAME - PAINTED"
+        ],
+        [
+            "D4.C1",
+            "D4",
+            "HUB MOTOR ASSEMBLY"
+        ],
+        [
+            "D4.C4",
+            "D4",
+            "BRAKE CABLE RH LEVER ASSY TO FRONT PANEL ASSY"
+        ],
+        [
+            "D5",
+            "S1_AIR",
+            "INTEGRATED HMI"
+        ],
+        [
+            "D5",
+            "S1_AIR",
+            "BRAKE CABLE RH LEVER ASSY TO FRONT PANEL ASSY"
+        ],
+        [
+            "D5",
+            "S1_AIR",
+            "BRAKE CABLE REAR (LH) LEVER ASSEMBLY TO FRONT PANEL ASSEMBLY"
+        ],
+        [
+            "D5.C1",
+            "D5",
+            "HUB MOTOR ASSEMBLY"
+        ],
+        [
+            "D5.C2",
+            "D5",
+            "BRAKE CABLE REAR (LH) LEVER ASSEMBLY TO FRONT PANEL ASSEMBLY"
+        ],
+        [
+            "D5.C4",
+            "D5",
+            "BRAKE CABLE REAR (LH) LEVER ASSEMBLY TO FRONT PANEL ASSEMBLY"
+        ],
+        [
+            "D6",
+            "S1_AIR",
+            "BRAKE CABLE REAR (LH) LEVER ASSEMBLY TO FRONT PANEL ASSEMBLY"
+        ],
+        [
+            "D6.C1",
+            "D6",
+            "HUB MOTOR ASSEMBLY"
+        ]
+    ],
+    "S1_X+": [
+        [
+            "D1",
+            "S1_X+",
+            "REAR VIEW MIRROR MATT BLACK RH"
+        ],
+        [
+            "D1",
+            "S1_X+",
+            "PET TAPE"
+        ],
+        [
+            "D1",
+            "S1_X+",
+            "VOLTAGE DIVIDER"
+        ],
+        [
+            "D1",
+            "S1_X+",
+            "FRONT HARNESS_S1X"
+        ],
+        [
+            "D1",
+            "S1_X+",
+            "VCU MOUNTING BRACKET UPPER COMP"
+        ],
+        [
+            "D1",
+            "S1_X+",
+            "RH LEVER ASSY"
+        ],
+        [
+            "D1",
+            "S1_X+",
+            "BRAKE CABLE LH LEVER ASSY TO REAR PANEL ASSY"
+        ],
+        [
+            "D1",
+            "S1_X+",
+            "S1 AIR RIM SPOKE ASSY"
+        ],
+        [
+            "D1",
+            "S1_X+",
+            "HEAD LAMP"
+        ],
+        [
+            "D1",
+            "S1_X+",
+            "S1X FRAME ASSY PAINTED"
+        ],
+        [
+            "D1",
+            "S1_X+",
+            "REAR HARNESS"
+        ],
+        [
+            "D1",
+            "S1_X+",
+            "PLASTIC CLIP DIA 20"
+        ],
+        [
+            "D1",
+            "S1_X+",
+            "CLUSTER_S1X"
+        ],
+        [
+            "D1",
+            "S1_X+",
+            "COCKPIT FRONT"
+        ],
+        [
+            "D1",
+            "S1_X+",
+            "ELECTRONIC HAND THROTLE_S1X+"
+        ],
+        [
+            "D1",
+            "S1_X+",
+            "FRONT SUSPENSION RH"
+        ],
+        [
+            "D1",
+            "S1_X+",
+            "REAR UPPER PANEL"
+        ],
+        [
+            "D1.C1",
+            "D1",
+            "HANDLEBAR ASSY, S1X"
+        ],
+        [
+            "D1.C1",
+            "D1",
+            "PLASTIC CLIP DIA 20"
+        ],
+        [
+            "D1.S1",
+            "D1",
+            "VCU_S1X+"
+        ],
+        [
+            "D1.S2",
+            "D1",
+            "BATTERY ASSEMBLY, 3KWH"
+        ],
+        [
+            "D1.S2",
+            "D1",
+            "BATTERY ASSEMBLY, 3KWH"
+        ],
+        [
+            "D1.S2",
+            "D1",
+            "VCU_S1X+"
+        ],
+        [
+            "D1.S3",
+            "D1",
+            "VCU_S1X+"
+        ],
+        [
+            "D1.S4",
+            "D1",
+            "VCU_S1X+"
+        ],
+        [
+            "D1.S5",
+            "D1",
+            "VCU_S1X+"
+        ],
+        [
+            "D1.S6",
+            "D1",
+            "VCU_S1X+"
+        ],
+        [
+            "D1.S7",
+            "D1",
+            "VCU_S1X+"
+        ],
+        [
+            "D2",
+            "S1_X+",
+            "CLUSTER_S1X"
+        ],
+        [
+            "D2",
+            "S1_X+",
+            "HANDLEBAR ASSY, S1X"
+        ],
+        [
+            "D2",
+            "S1_X+",
+            "HEAD LAMP"
+        ],
+        [
+            "D2",
+            "S1_X+",
+            "S1 AIR RIM SPOKE ASSY"
+        ],
+        [
+            "D2",
+            "S1_X+",
+            "VOLTAGE DIVIDER"
+        ],
+        [
+            "D2",
+            "S1_X+",
+            "REAR VIEW MIRROR MATT BLACK RH"
+        ],
+        [
+            "D2",
+            "S1_X+",
+            "REAR VIEW MIRROR MATT BLACK LH"
+        ],
+        [
+            "D2",
+            "S1_X+",
+            "VCU MOUNTING BRACKET UPPER COMP"
+        ],
+        [
+            "D2",
+            "S1_X+",
+            "DC-DC HARNESS"
+        ],
+        [
+            "D2",
+            "S1_X+",
+            "FRONT HARNESS_S1X"
+        ],
+        [
+            "D2",
+            "S1_X+",
+            "S1X FRAME ASSY PAINTED"
+        ],
+        [
+            "D2.C1",
+            "D2",
+            "BRAKE CABLE LH LEVER ASSY TO REAR PANEL ASSY"
+        ],
+        [
+            "D2.C2",
+            "D2",
+            "BRAKE CABLE LH LEVER ASSY TO REAR PANEL ASSY"
+        ],
+        [
+            "D2.S2",
+            "D2",
+            "VCU_S1X+"
+        ],
+        [
+            "D2.S3",
+            "D2",
+            "VCU_S1X+"
+        ],
+        [
+            "D3",
+            "S1_X+",
+            "BRAKES AGGREGATE"
+        ],
+        [
+            "D3",
+            "S1_X+",
+            "BATTERY AGGREGATE"
+        ],
+        [
+            "D3.C1",
+            "D3",
+            "BRAKE CABLE RH LEVER ASSY TO FRONT PANEL ASSY"
+        ],
+        [
+            "D3.C1",
+            "D3",
+            "BRAKE CABLE REAR (LH) LEVER ASSEMBLY TO FRONT PANEL ASSEMBLY"
+        ],
+        [
+            "D3.C2",
+            "D3",
+            "BRAKE CABLE RH LEVER ASSY TO FRONT PANEL ASSY"
+        ],
+        [
+            "D3.C2",
+            "D3",
+            "BRAKE CABLE REAR (LH) LEVER ASSEMBLY TO FRONT PANEL ASSEMBLY"
+        ],
+        [
+            "D3.P1.S2",
+            "D3",
+            "BATTERY ASSEMBLY, 3KWH"
+        ],
+        [
+            "D3.P1.S3",
+            "D3",
+            "BATTERY ASSEMBLY, 3KWH"
+        ],
+        [
+            "D4.C1",
+            "D4",
+            "BRAKE CABLE REAR (LH) LEVER ASSEMBLY TO FRONT PANEL ASSEMBLY"
+        ],
+        [
+            "D4.C2",
+            "D4",
+            "BRAKE CABLE RH LEVER ASSY TO FRONT PANEL ASSY"
+        ],
+        [
+            "D4.C3",
+            "D4",
+            "BRAKE CABLE RH LEVER ASSY TO FRONT PANEL ASSY"
+        ],
+        [
+            "D5.C3",
+            "D5",
+            "BRAKE CABLE RH LEVER ASSY TO FRONT PANEL ASSY"
+        ],
+        [
+            "D5.C3",
+            "D5",
+            "BRAKE CABLE REAR (LH) LEVER ASSEMBLY TO FRONT PANEL ASSEMBLY"
+        ],
+        [
+            "D6.C2",
+            "D6",
+            "BRAKE CABLE REAR (LH) LEVER ASSEMBLY TO FRONT PANEL ASSEMBLY"
+        ]
+    ],
+    "S1_PRO": [
+        [
+            "D1",
+            "S1_PRO",
+            "MOTOR ASSEMBLY_OLA 1"
+        ]
+    ]
+}

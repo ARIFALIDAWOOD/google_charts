@@ -2,10 +2,17 @@
   <head>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript">
-      google.charts.load('current', {packages:["orgchart"]});
-      google.charts.setOnLoadCallback(drawChartS1Air);
-        google.charts.setOnLoadCallback(drawChartGen2);
-
+        function readJSON(file) {
+            var request = new XMLHttpRequest();
+            request.open('GET', file, false);
+            request.send(null);
+            if (request.status == 200)
+            return request.responseText;
+        };
+        
+        const dataMain = JSON.parse(readJSON('designs.json'));
+        google.charts.load('current', {packages:["orgchart"]});
+        const gen2Data = dataMain['GEN2'];
       function drawChartS1Air() {
         var data = new google.visualization.DataTable();
         data.addColumn('string', 'Name');
@@ -16,15 +23,12 @@
         data.addRows([
             ['S1_AIR', '', 'S1 AIR Vehicles']
         ]);
-        data.addRows([
-            ['D1', 'S1_AIR', ''],
-        ])
+        data.addRows(dataMain['S1_AIR'])
         // Create the chart.
         var chart = new google.visualization.OrgChart(document.getElementById('s1_air'));
         // Draw the chart, setting the allowHtml option to true for the tooltips.
         chart.draw(data, {'allowHtml':true});
     }
-
     function drawChartGen2(){
         var data = new google.visualization.DataTable();
         data.addColumn('string', 'Name');
@@ -35,37 +39,114 @@
         data.addRows([
             ['GEN2', '', 'GEN2 Vehicles']
         ]);
-        data.addRows([
-            ['D1', 'GEN2', ''],
-            ['D1.P1', 'D1', ''],
-            ['D2', 'GEN2', ''],
-        ])
+        data.addRows(gen2Data)
         // Create the chart.
         var chart = new google.visualization.OrgChart(document.getElementById('gen2'));
         // Draw the chart, setting the allowHtml option to true for the tooltips.
         chart.draw(data, {'allowHtml':true});
     }
+    function drawChartS1XP(){
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Name');
+        data.addColumn('string', 'Manager');
+        data.addColumn('string', 'ToolTip');
 
+        // For each orgchart box, provide the name, manager, and tooltip to show.
+        data.addRows([
+            ['S1_X+', '', 'S1 XP Vehicles']
+        ]);
+        data.addRows(dataMain['S1_X+'])
+        // Create the chart.
+        var chart = new google.visualization.OrgChart(document.getElementById('s1_xp'));
+        // Draw the chart, setting the allowHtml option to true for the tooltips.
+        chart.draw(data, {'allowHtml':true});
+    }
+    function drawChartS1Pro(){
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Name');
+        data.addColumn('string', 'Manager');
+        data.addColumn('string', 'ToolTip');
+
+        // For each orgchart box, provide the name, manager, and tooltip to show.
+        data.addRows([
+            ['S1_PRO', '', 'S1 PRO Vehicles']
+        ]);
+        data.addRows(dataMain['S1_PRO'])
+        // Create the chart.
+        var chart = new google.visualization.OrgChart(document.getElementById('s1_pro'));
+        // Draw the chart, setting the allowHtml option to true for the tooltips.
+        chart.draw(data, {'allowHtml':true});
+        
+    }
+    function drawChartGeneral(dataPop, id, first_row){
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Name');
+        data.addColumn('string', 'Manager');
+        data.addColumn('string', 'ToolTip');
+
+        // For each orgchart box, provide the name, manager, and tooltip to show.
+        data.addRows(first_row)
+        data.addRows(dataPop)
+        // Create the chart.
+        var chart = new google.visualization.OrgChart(document.getElementById(id.toLowerCase()));
+        // Draw the chart, setting the allowHtml option to true for the tooltips.
+        chart.draw(data, {'allowHtml':true});
+    }
+
+    
+    google.charts.setOnLoadCallback(drawChartS1Air);
+    google.charts.setOnLoadCallback(drawChartGen2);
+    // debugger;
+    // google.charts.setOnLoadCallback(drawChartGeneral(dataMain['S1_PRO'], 'S1_PRO', [['S1_PRO', '', 'S1 PRO Vehicles']]));
+    google.charts.setOnLoadCallback(drawChartS1XP);
+    google.charts.setOnLoadCallback(drawChartS1Pro);
    </script>
    <!-- Load Bootstrap -->
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     </head>
   <body>
-    <div class="row">
-        <div class="col">
-            <div id="s1_air"></div>
+    <div class="container">  
+        <div class="row mb-4">
+            <div class="card d-flex">
+                <div class="card-header">
+                    <h3>S1 AIR</h3>
+                </div>
+                <div class="card-body">
+                    <div id="s1_air"></div>
+                </div>
+            </div>
         </div>
-        <div class="col">
-            <div id="gen2"></div>
+        <div class="row mb-4">
+            <div class="card d-flex">
+                <div class="card-header">
+                    <h3>GEN2</h3>
+                </div>
+                <div class="card-body">
+                    <div id="gen2"></div>
+                </div>
+            </div>
         </div>
-        <div class="col">
-            <div id="s1_pro"></div>
+        <div class="row mb-4">
+            <div class="card d-flex">
+                <div class="card-header">
+                    <h3>S1 PRO</h3>
+                </div>
+                <div class="card-body">
+                    <div id="s1_pro"></div>
+                </div>
+            </div>
         </div>
-        <div class="col">
-            <div id="s1_xp"></div>
+        <div class="row mb-4">
+            <div class="card d-flex">
+                <div class="card-header">
+                    <h3>S1 XP</h3>
+                </div>
+                <div class="card-body">
+                    <div id="s1_xp"></div>
+                </div>
+            </div>
         </div>
     </div>
-    
     <!-- Load jQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <!-- Load Bootstrap JS -->
